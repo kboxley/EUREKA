@@ -1,4 +1,4 @@
-# Team Eureka's Project Work Plan
+ # Team Eureka's Project Work Plan
 
 This project work plan has been created by team Eureka. 
 
@@ -10,7 +10,7 @@ This project work plan has been created by team Eureka.
       
 ### Overview 
 
-We decided that we would break up the work plan by assignment deliverables for the project. The tasks column contains the tasks that we believe need to be done to meet the deliverable. The contributor's column contains the team member that is responsible for completing the task. The completion date column can signify two things: when the task should be completed by or when the task was completed by. Being an agile group, we want to allow for unforeseen issues and adjust our work plan as needed.
+We decided that we would break up the work plan by assignment deliverables for the project. The tasks column contains the tasks that we believe need to be done to meet the deliverable. The contributor's column contains the team member that is responsible for completing the task. The completion date column can signify two things: when the task should be completed by or when the task was completed by. Being an agile group, we want to allow for unforeseen issues and adjust our work plan as needed. These tasks can be updated, deleted or new tasks added as the project continues.
 
 ### Background Research & Research Questions
 
